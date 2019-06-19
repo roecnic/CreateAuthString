@@ -1,0 +1,1 @@
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\bin\Debug\CreateNewAuthString.exe.config
