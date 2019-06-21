@@ -1,1 +1,10 @@
 C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\bin\Debug\CreateNewAuthString.exe.config
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\bin\Debug\CreateNewAuthString.exe
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\bin\Debug\CreateNewAuthString.pdb
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\obj\Debug\CreateNewAuthString.csprojResolveAssemblyReference.cache
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\obj\Debug\CreateNewAuthString.Properties.Resources.resources
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\obj\Debug\CreateNewAuthString.csproj.GenerateResource.Cache
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\obj\Debug\CreateNewAuthString.exe
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\obj\Debug\CreateNewAuthString.pdb
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\obj\Debug\CreateNewAuthString.GetInputForm.resources
+C:\Users\NRoechter\Documents\Visual Studio 2015\Projects\CreateAuthString\CreateNewAuthString\obj\Debug\CreateNewAuthString.MainForm.resources

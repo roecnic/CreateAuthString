@@ -1,5 +1,5 @@
 ﻿namespace CreateNewAuthString {
-    partial class Form1 {
+    partial class MainForm {
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -25,7 +25,6 @@
         private void InitializeComponent () {
             this.btnCreateAuthStrings = new System.Windows.Forms.Button();
             this.rtbxAuthStrings = new System.Windows.Forms.RichTextBox();
-            this.btnCopySelectedAuthString = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnCreateAuthStrings
@@ -46,22 +45,11 @@
             this.rtbxAuthStrings.TabIndex = 1;
             this.rtbxAuthStrings.Text = "";
             // 
-            // btnCopySelectedAuthString
-            // 
-            this.btnCopySelectedAuthString.Location = new System.Drawing.Point(13, 221);
-            this.btnCopySelectedAuthString.Name = "btnCopySelectedAuthString";
-            this.btnCopySelectedAuthString.Size = new System.Drawing.Size(259, 23);
-            this.btnCopySelectedAuthString.TabIndex = 2;
-            this.btnCopySelectedAuthString.Text = "AuthString kopieren";
-            this.btnCopySelectedAuthString.UseVisualStyleBackColor = true;
-            this.btnCopySelectedAuthString.Click += new System.EventHandler(this.btnCopySelectedAuthString_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.btnCopySelectedAuthString);
+            this.ClientSize = new System.Drawing.Size(284, 227);
             this.Controls.Add(this.rtbxAuthStrings);
             this.Controls.Add(this.btnCreateAuthStrings);
             this.Name = "Form1";
@@ -74,7 +62,6 @@
 
         private System.Windows.Forms.Button btnCreateAuthStrings;
         private System.Windows.Forms.RichTextBox rtbxAuthStrings;
-        private System.Windows.Forms.Button btnCopySelectedAuthString;
     }
 }
 
