@@ -28,8 +28,12 @@ namespace CreateNewAuthString {
             return entryArray;
         }
 
-        public string ReturnFile () {
+        public string ReturnAuthStringsFile () {
             return File.ReadAllText(@".\FILES\AuthStrings.txt");
+        }
+
+        public string ReturnDomainListFile () {
+            return File.ReadAllText(@".\FILES\DomainList.txt");
         }
 
         public string[] ReturnLines () {

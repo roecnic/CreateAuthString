@@ -41,7 +41,8 @@ namespace CreateNewAuthString {
                     Clipboard.SetText(newAuthKey);
                     lblAuthKeyCopied.Visible = true;
 
-                    File.WriteAllText(@".\FILES\AuthStrings.txt", newAuthKey + "." + newDomain + '\n' + mainForm.ReturnFile());
+                    File.WriteAllText(@".\FILES\AuthStrings.txt", newAuthKey + "." + newDomain + '\n' + mainForm.ReturnAuthStringsFile());
+                    File.WriteAllText(@".\FILES\DomainList.txt", newDomain + '\n' + mainForm.ReturnDomainListFile());
                 } else {
                     MessageBox.Show("Bitte einen Domain-Namen angeben.", "Hinweis", MessageBoxButtons.OK);
                 }
